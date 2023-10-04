@@ -1,0 +1,9 @@
+[submodule "ContosoDentistryChatBot"]
+	path = ContosoDentistryChatBot
+	url = https://github.com/MuGhz84/ContosoDentistryChatBot.git
+[submodule "ContosoDentistryWebsite"]
+	path = ContosoDentistryWebsite
+	url = https://github.com/MuGhz84/ContosoDentistryWebsite.git
+[submodule "ContosoDentistryScheduler"]
+	path = ContosoDentistryScheduler
+	url = https://github.com/MuGhz84/ContosoDentistryScheduler.git
